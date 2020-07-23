@@ -20,15 +20,15 @@ Using this script is pretty simple and straightforward. Here are some steps:
 * You need to pass a query string purchase_code to the url, or if you don't want the user to provide a purchase code, you can add the purchase code in index.php file where it says PURCHASE-CODE-HERE
 
 ## Credits
-This is powered by ThemeNcode. an envato Elite Author. Check out some of our products:
-<a href="https://codecanyon.net/item/pdf-viewer-for-wordpress/8182815/">PDF Viewer for WordPress</a>
-<a href="https://codecanyon.net/item/wp-file-access-manager/26430349">WP File Access Manager</a>
-<a href="https://codecanyon.net/item/themencode-pdf-reader-php-script/10015637">ThemeNcode PDF Reader</a>
+This is powered by ThemeNcode. an envato Elite Author. Check out some of our products: <br />
+<a href="https://codecanyon.net/item/pdf-viewer-for-wordpress/8182815/">PDF Viewer for WordPress</a><br />
+<a href="https://codecanyon.net/item/wp-file-access-manager/26430349">WP File Access Manager</a><br />
+<a href="https://codecanyon.net/item/themencode-pdf-reader-php-script/10015637">ThemeNcode PDF Reader</a><br />
 
 ### We also recommend
 
-<a href="https://codecanyon.net/item/salespower-woocommerce-addon/23448445">SalesPower - WooCommerce Addon</a>
-<a href="https://codecanyon.net/item/quotify/23172738?s_rank=2">Quotify WooCommerce Addon</a>
+<a href="https://codecanyon.net/item/salespower-woocommerce-addon/23448445">SalesPower - WooCommerce Addon</a><br />
+<a href="https://codecanyon.net/item/quotify/23172738?s_rank=2">Quotify WooCommerce Addon</a><br />
 
 ## Questions ?
 Please feel free to reach us for any kind of queries.
